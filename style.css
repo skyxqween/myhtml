@@ -9,6 +9,9 @@ a {
 
 html {
     background-color:#26202b;
+    border: solid;
+    border-color: #746182;
+    box-shadow: 3px 3px 10px #746182;
 }
 
 .links {
@@ -22,4 +25,4 @@ h1, h2, h3, h4, h5, h6 {
 img {
     box-shadow: 3px 3px 10px #746182;
     border-color: #c2a2da;
-}
+    box-shadow: 3px 3px 10px #746182;
